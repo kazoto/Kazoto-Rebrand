@@ -53,7 +53,7 @@
   <li>Remove Subheader</li>
   <li>Include Master Options tab<br>Creates a tab menu for main and master optons. Recommended if you remove the footer.</li>
   <li>Header text <br> Can change header text </li>
-  <li>Subheader Text<br> Change subheader text<li>
+  <li>Subheader Text<br> Change subheader text</li>
   <li>Plugin Name<br> This is a visual UI to add a filter to change plugin name. you can also change plugin name via the kazoto_rebrand_plugin_title filter.</li>
 </ol>
 
